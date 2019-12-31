@@ -145,12 +145,12 @@ body {
   text-align: right;
   background: #989898;
   color: #fff;
-  height: 10vh;
+  height: 13vh;
 }
 .buttons {
   text-align: center;
   font-weight: 600;
-  height: 60vh;
+  height: 57vh;
 }
 .button-row {
   width: 100%;
